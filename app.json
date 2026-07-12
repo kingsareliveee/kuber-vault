@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "d4ac096c-b64a-4bab-9cef-b0bf79a346cc"
+      }
+    },
+    "android": {
+      "package": "com.anuj.kubervault"
+    }
+  }
+}
